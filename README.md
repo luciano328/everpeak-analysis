@@ -1,5 +1,7 @@
 # EverPeak Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luciano328/everpeak-analysis/blob/main/S5%20ladb_mobility_economy_project_student.ipynb)
+
 ## Descripción del proyecto
 
 Este proyecto corresponde al análisis exploratorio de datos (EDA) del caso EverPeak Retail.
